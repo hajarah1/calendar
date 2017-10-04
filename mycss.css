@@ -1,0 +1,49 @@
+td{
+text-align:center;
+}
+body{
+width:100%;
+height:100%;
+margin:0px;
+background-color:#F1F8E0;
+}
+#calender{
+margin:10% 30%;
+width:auto;
+border-radius:8px;
+background-color:white;
+box-shadow: 10px 10px 5px #888888;
+}
+table{
+margin:5%;
+font-family:verdana;
+width:auto;
+}
+img{
+	position:relative;
+	left:75%;
+	top:170px;
+	
+}
+.caldate{
+	margin-left:0px;
+	font-size:24px;
+	margin-top:25px;
+	color:#e65c00;
+	font-family:verdana
+}
+#words{
+	"font-size:18px;
+}
+#time{
+	margin-left:09px;
+	font-size:21px;
+	color:#cc5200;
+	font-family:verdana
+}
+#date{
+	color:#803300;
+}
+#degree{
+	margin-left:350px;
+}
